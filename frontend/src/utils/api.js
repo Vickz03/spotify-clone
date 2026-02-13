@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Base API setup
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api'
+    baseURL: 'https://spotify-clone-6wnc.onrender.com/api'
 });
 
 // Song API Calls

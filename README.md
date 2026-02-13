@@ -157,25 +157,23 @@ npm run dev
 
 ### Access the Application
 - **Frontend**: http://localhost:5173
-- **Backend API**: http://localhost:5000
+- **Production Backend API**: https://spotify-clone-6wnc.onrender.com
 
 ### Default Login Credentials
 - **Username**: `user`
 - **Password**: `password`
-or
-
 
 ---
 
-## 📡 API Endpoints
+## 📡 API Endpoints (Production)
 
 ### Authentication
-- `POST /api/auth/login` - User login
+- `POST https://spotify-clone-6wnc.onrender.com/api/auth/login` - User login
 
 ### Songs
-- `GET /api/songs` - Get all songs
-- `GET /api/songs?category=Tamil` - Filter by category
-- `GET /api/songs/search?q=leo` - Search songs
+- `GET https://spotify-clone-6wnc.onrender.com/api/songs` - Get all songs
+- `GET https://spotify-clone-6wnc.onrender.com/api/songs?category=Tamil` - Filter by category
+- `GET https://spotify-clone-6wnc.onrender.com/api/songs/search?q=leo` - Search songs
 
 ---
 
@@ -188,7 +186,7 @@ or
 - **Lucide React** - Icon library
 - **Vite** - Build tool
 
-### Backend
+### Backend (Deployed on Render)
 - **Node.js** - Runtime
 - **Express** - Web framework
 - **CORS** - Cross-origin support
@@ -254,7 +252,7 @@ module.exports = {
 ### API Base URL (`frontend/src/utils/api.js`)
 ```javascript
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api'
+    baseURL: 'https://spotify-clone-6wnc.onrender.com/api'
 });
 ```
 

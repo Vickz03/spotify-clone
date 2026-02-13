@@ -4,7 +4,7 @@ const songLibrary = require('../data/songs');
 const addImageFallback = (song) => {
     return {
         ...song,
-        cover: song.cover || 'http://localhost:5000/covers/placeholders.jpg'
+        cover: song.cover || 'https://spotify-clone-6wnc.onrender.com/covers/placeholders.jpg'
     };
 };
 

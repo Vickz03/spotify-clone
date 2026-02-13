@@ -6,7 +6,7 @@ const songLibrary = [
         title: "Naa Ready (from 'Leo')",
         artist: "Anirudh Ravichander, Thalapathy Vijay",
         album: "Leo",
-        cover: "http://localhost:5000/covers/Leo.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Leo.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
         duration: "4:08",
         category: "Tamil"
@@ -16,7 +16,7 @@ const songLibrary = [
         title: "Hukum - Thalaivar Alappara",
         artist: "Anirudh Ravichander, Super Subu",
         album: "Jailer",
-        cover: "http://localhost:5000/covers/Jailer.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Jailer.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
         duration: "3:27",
         category: "Tamil"
@@ -26,7 +26,7 @@ const songLibrary = [
         title: "Badass (from 'Leo')",
         artist: "Anirudh Ravichander",
         album: "Leo",
-        cover: "http://localhost:5000/covers/Leo.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Leo.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
         duration: "3:50",
         category: "Tamil"
@@ -36,7 +36,7 @@ const songLibrary = [
         title: "Vaathi Coming",
         artist: "Anirudh Ravichander, Gana Balachandar",
         album: "Master",
-        cover: "http://localhost:5000/covers/Master.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Master.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
         duration: "3:50",
         category: "Tamil"
@@ -46,7 +46,7 @@ const songLibrary = [
         title: "Vikram Title Track",
         artist: "Anirudh Ravichander",
         album: "Vikram",
-        cover: "http://localhost:5000/covers/Vikram.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Vikram.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
         duration: "3:40",
         category: "Tamil"
@@ -56,7 +56,7 @@ const songLibrary = [
         title: "Arabic Kuthu",
         artist: "Anirudh Ravichander, Jonita Gandhi",
         album: "Beast",
-        cover: "http://localhost:5000/covers/Beast.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Beast.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
         duration: "4:40",
         category: "Tamil"
@@ -66,7 +66,7 @@ const songLibrary = [
         title: "Ranjithame",
         artist: "Thalapathy Vijay, M.M. Manasi",
         album: "Varisu",
-        cover: "http://localhost:5000/covers/Varisu.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Varisu.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
         duration: "4:20",
         category: "Tamil"
@@ -78,7 +78,7 @@ const songLibrary = [
         title: "Maruvaarthai",
         artist: "Sid Sriram",
         album: "Enai Noki Paayum Thota",
-        cover: "http://localhost:5000/covers/Enai Noki Paayum Thota.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Enai Noki Paayum Thota.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
         duration: "5:56",
         category: "Melody"
@@ -88,7 +88,7 @@ const songLibrary = [
         title: "Mallipoo",
         artist: "A.R. Rahman, Madhushree",
         album: "Vendhu Thanindhathu Kaadu",
-        cover: "http://localhost:5000/covers/Vendhu Thanindhathu Kaadu.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Vendhu Thanindhathu Kaadu.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-13.mp3",
         duration: "4:04",
         category: "Melody"
@@ -98,7 +98,7 @@ const songLibrary = [
         title: "Naan Pizhai",
         artist: "Anirudh Ravichander, Ravi G",
         album: "Kaathuvaakula Rendu Kaadhal",
-        cover: "http://localhost:5000/covers/Leo.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Leo.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
         duration: "3:58",
         category: "Melody"
@@ -108,7 +108,7 @@ const songLibrary = [
         title: "Kanave Kanave",
         artist: "Anirudh Ravichander",
         album: "David",
-        cover: "http://localhost:5000/covers/Leo.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Leo.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
         duration: "4:30",
         category: "Melody"
@@ -118,7 +118,7 @@ const songLibrary = [
         title: "Megham Karukatha",
         artist: "Dhanush, Anirudh",
         album: "Thiruchitrambalam",
-        cover: "http://localhost:5000/covers/Thiruchitrambalam.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Thiruchitrambalam.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
         duration: "4:20",
         category: "Melody"
@@ -128,7 +128,7 @@ const songLibrary = [
         title: "Pogaadhe",
         artist: "Yuvan Shankar Raja",
         album: "Deepavali",
-        cover: "http://localhost:5000/covers/Leo.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Leo.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
         duration: "4:40",
         category: "Melody"
@@ -140,7 +140,7 @@ const songLibrary = [
         title: "Kaavaalaa",
         artist: "Anirudh Ravichander, Shilpa Rao",
         album: "Jailer",
-        cover: "http://localhost:5000/covers/Jailer.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Jailer.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
         duration: "3:10",
         category: "Party"
@@ -150,7 +150,7 @@ const songLibrary = [
         title: "Dippam Dappam",
         artist: "Anirudh, Anthony Daasan",
         album: "Kaathuvaakula Rendu Kaadhal",
-        cover: "http://localhost:5000/covers/Leo.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Leo.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
         duration: "3:30",
         category: "Party"
@@ -160,7 +160,7 @@ const songLibrary = [
         title: "Verithanam",
         artist: "Thalapathy Vijay",
         album: "Bigil",
-        cover: "http://localhost:5000/covers/Leo.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Leo.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
         duration: "4:00",
         category: "Party"
@@ -172,7 +172,7 @@ const songLibrary = [
         title: "Starboy",
         artist: "The Weeknd, Daft Punk",
         album: "Starboy",
-        cover: "http://localhost:5000/covers/Starboy.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Starboy.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
         duration: "3:50",
         category: "International"
@@ -182,7 +182,7 @@ const songLibrary = [
         title: "Flowers",
         artist: "Miley Cyrus",
         album: "Endless Summer Vacation",
-        cover: "http://localhost:5000/covers/Endless Summer Vacation.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Endless Summer Vacation.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
         duration: "3:20",
         category: "International"
@@ -192,7 +192,7 @@ const songLibrary = [
         title: "Cruel Summer",
         artist: "Taylor Swift",
         album: "Lover",
-        cover: "http://localhost:5000/covers/Starboy.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Starboy.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-15.mp3",
         duration: "2:58",
         category: "International"
@@ -202,7 +202,7 @@ const songLibrary = [
         title: "As It Was",
         artist: "Harry Styles",
         album: "Harry's House",
-        cover: "http://localhost:5000/covers/Starboy.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Starboy.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-16.mp3",
         duration: "2:47",
         category: "International"
@@ -212,7 +212,7 @@ const songLibrary = [
         title: "Die For You",
         artist: "The Weeknd, Ariana Grande",
         album: "Starboy",
-        cover: "http://localhost:5000/covers/Starboy.jpg",
+        cover: "https://spotify-clone-6wnc.onrender.com/covers/Starboy.jpg",
         url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
         duration: "3:50",
         category: "International"
